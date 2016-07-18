@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.rectangle {
+  height: 200px;
+  border: 1px solid black;
+  flex: 1 1 200px;
+  box-shadow: 0 6px 6px -6px #000000;
+  margin: 10px;
+}
+
+.rectangle:nth-of-type(1) {
+  flex-basis: 400px;
+}
+
+.rectangle:nth-of-type(7) {
+  flex-basis: 400px;
+}
+
+.steelblue {
+  background-color: steelblue;
+}
+
+.beige {
+  background-color: beige;
+}
+
+.green {
+  background-color: darkgreen;
+}
+
+.tomato {
+  background-color: tomato;
+}
