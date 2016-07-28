@@ -1,6 +1,6 @@
 
 
-# _Björk - Nothing's Impossible_
+# _Flexy-Panels_
 
 #### By Ned Faulhaber and Marty Fitchen
 
